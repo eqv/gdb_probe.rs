@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["coco <coco@hexgolems.com>"]
 edition = "2018"
 repository = "https://github.com/eqv/gdb_probe.rs"
-categories = ["debug", "gdb"]
+categories = ["development-tools::debugging"]
 license="MIT"
 description="ipdb.set_trace() / binding.pry, but for rust"
 
