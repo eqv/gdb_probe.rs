@@ -7,6 +7,7 @@ repository = "https://github.com/eqv/gdb_probe.rs"
 categories = ["development-tools::debugging"]
 license="MIT"
 description="ipdb.set_trace() / binding.pry, but for rust"
+readme="Readme.md"
 
 [dependencies]
 nix = "0.13.0"
